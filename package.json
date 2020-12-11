@@ -58,7 +58,7 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "ng-packagr": "^11.0.0",
     "protractor": "~7.0.0",
-    "semantic-release": "^15.14.0",
+    "semantic-release": "^17.2.3",
     "travis-deploy-once": "^5.0.11",
     "ts-node": "~7.0.0",
     "tslint": "~6.1.0",
